@@ -6,5 +6,7 @@ I have experience with:
 * Java
 * C
 * Python
+* kotlin ( Android dev language ) 
+* swift ( Apple dev language ) 
 
 My goal is to build the best apps possible and eventually work for a major tech company. I want to share my knowledge and experience . 
