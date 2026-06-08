@@ -9,4 +9,6 @@ I have experience with:
 * kotlin ( Android dev language ) 
 * swift ( Apple dev language ) 
 
-My goal is to build the best apps possible and eventually work for a major tech company. I want to share my knowledge and experience . 
+ive make alot of works , you can see in my profile , the most important one for me , is the 
+( final project ) of " moudle 11 " python 
+i had to creat a system in python , this was the most program that took time with me and alot of hard work to finish it :) 
