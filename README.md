@@ -29,3 +29,10 @@ best projects ive made
 - Sends an automatic email to the candidate with their registration result
 
   you also can find it in my Githup account , i have the full code with the README
+
+  you also have my sec project , that i made with Kotlin
+  What it does
+Add a task (title + description)
+List all tasks (with ID, status, and description)
+Mark a task as completed
+Remove a task
